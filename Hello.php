@@ -1,5 +1,5 @@
 <?php
 
 echo "Hello, world";
-//Comment
+//This is a C++ style , one line comment
 ?>
