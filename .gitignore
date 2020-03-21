@@ -1,1 +1,4 @@
 novo.txt
+.DS_Store
+log/
+*.log
